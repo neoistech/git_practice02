@@ -1,14 +1,7 @@
 body {
-    background-color: aquamarine;
+    background-color: rgb(138, 127, 255);
 }
 hi {
-    background-color: purple;
+    background-color: rgb(0, 128, 51);
 }
-h1 {
-    font-size: 24px;
-}
- <style>
-h1 {
-    font-size: 24px;
-}
- </style>
+
